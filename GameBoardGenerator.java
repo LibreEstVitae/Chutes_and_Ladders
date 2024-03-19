@@ -1,3 +1,5 @@
+//Author: Austin
+
 package chutesandladdersgame;
 
 
@@ -93,4 +95,5 @@ public class GameBoardGenerator
     {
         return gridSize;
     }
+//Author: Austin
 }
