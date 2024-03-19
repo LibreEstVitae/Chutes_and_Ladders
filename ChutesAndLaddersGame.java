@@ -1,3 +1,5 @@
+//Author: Austin
+
 package chutesandladdersgame;
 
 import java.util.Scanner;
@@ -60,14 +62,8 @@ public class ChutesAndLaddersGame
             }
             
         }
+//Author: Austin
         
-        
-        
-        
-        
-       
-        
-        
-    }
+ }
 
 }
